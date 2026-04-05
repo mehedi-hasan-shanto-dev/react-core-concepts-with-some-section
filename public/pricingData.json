@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 20,
+    "duration": "month",
+    "description": "Good for beginners starting fitness.",
+    "features": [
+      "Access to gym equipment",
+      "Locker facility",
+      "1 trainer session",
+      "Free WiFi",
+      "Basic fitness assessment",
+      "Access to cardio zone"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": 45,
+    "duration": "month",
+    "popular": true,
+    "description": "Balanced option for regular training.",
+    "features": [
+      "Full gym access",
+      "5 trainer sessions",
+      "Diet plan guidance",
+      "Locker + Shower",
+      "Group classes",
+      "Progress tracking",
+      "Access to strength training zone",
+      "Stretching & warm-up area"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 80,
+    "duration": "month",
+    "description": "Best for advanced and serious users.",
+    "features": [
+      "24/7 gym access",
+      "Unlimited trainer sessions",
+      "Custom diet plan",
+      "Spa & sauna",
+      "All classes included",
+      "Personal workout plan",
+      "Body composition analysis",
+      "Priority support",
+      "Access to VIP training zone"
+    ]
+  }
+]
